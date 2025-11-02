@@ -1,3 +1,3 @@
-# Just the Learning practice for backend
+# Streamzy
 
-Streamzy is kinda like youtube but in different verison
+A place to share your videos, connect with people, and let your creativity flow. Simple, real, and made for everyone who loves to create and watch.
